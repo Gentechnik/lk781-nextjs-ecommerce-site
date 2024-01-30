@@ -1,3 +1,4 @@
+import { Nav } from "@/components/Nav";
 import db from "@/data/db.json";
 
 const products = db.products;
