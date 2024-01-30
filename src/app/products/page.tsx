@@ -15,8 +15,8 @@ export default function Home() {
             >
               <p className="font-bold text-2xl text-green-300">{product.id}</p>
               <img
-                className="mx-3"
-                src="images/products/mock.jpg"
+                className="mx-3 w-1/3"
+                src={`images/products/product_${product.id}.jpg`}
                 alt="a simple contentless mock up picture"
               />
               <section>
