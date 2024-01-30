@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Smartphone",
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "price": 999.99
+    },
+    {
+      "id": 2,
+      "category": "Laptop",
+      "brand": "Dell",
+      "model": "XPS 15",
+      "price": 1499.99
+    },
+    {
+      "id": 3,
+      "category": "External Disk Drive",
+      "brand": "Seagate",
+      "model": "Backup Plus Slim",
+      "price": 79.99
+    },
+    {
+      "id": 4,
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "price": 899.99
+    },
+    {
+      "id": 5,
+      "category": "Laptop",
+      "brand": "HP",
+      "model": "Spectre x360",
+      "price": 1299.99
+    },
+    {
+      "id": 6,
+      "category": "External Disk Drive",
+      "brand": "Western Digital",
+      "model": "My Passport",
+      "price": 99.99
+    },
+    {
+      "id": 7,
+      "category": "Smartphone",
+      "brand": "Google",
+      "model": "Pixel 6",
+      "price": 799.99
+    },
+    {
+      "id": 8,
+      "category": "Laptop",
+      "brand": "Lenovo",
+      "model": "ThinkPad X1 Carbon",
+      "price": 1899.99
+    },
+    {
+      "id": 9,
+      "category": "External Disk Drive",
+      "brand": "Toshiba",
+      "model": "Canvio Basics",
+      "price": 59.99
+    },
+    {
+      "id": 10,
+      "category": "Smartphone",
+      "brand": "OnePlus",
+      "model": "9 Pro",
+      "price": 899.99
+    }
+  ]
+}
